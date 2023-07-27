@@ -1,11 +1,16 @@
-header {
+.cabeçalho{
     background-color:rgb(1, 85, 153);
     color: rgb(236, 241, 245);
+    display: flex;
+    justify-content:space-around;
 }
 .cabecalho-imagem{
     width: 20%;
     
     
+}
+.cabeçalho-lista-item2{
+    display: inline-block
 }
 
 
