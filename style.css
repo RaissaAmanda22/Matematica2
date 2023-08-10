@@ -1,16 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
 .cabeçalho{
     background-color:rgb(1, 85, 153);
     color: rgb(236, 241, 245);
     display: flex;
     justify-content:space-around;
+    align-items:center;
+    padding: 24px 0;
 }
 .cabecalho-imagem{
     width: 20%;
     
     
 }
-.cabeçalho-lista-item2{
-    display: inline-block
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
 
 
